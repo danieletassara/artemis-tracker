@@ -4,6 +4,11 @@ Real-time mission control dashboard for NASA's Artemis II crewed lunar flyby mis
 
 **Created by [Canadian Space](https://cdnspace.ca)**
 
+**Featured in the NASA Johnson Space Center Science Team's Mission Control during mission splashdown!**
+<img width="1280" height="960" alt="1775862948078" src="https://github.com/user-attachments/assets/6395a908-7a52-441a-9b42-7929fed3fdc0" />
+<img width="1280" height="960" alt="1775862966170" src="https://github.com/user-attachments/assets/2d06f3ac-1bb9-423f-9fbd-86c3f250ecbc" />
+
+
 ## Features
 
 ### Telemetry & Tracking
